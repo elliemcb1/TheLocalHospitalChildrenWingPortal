@@ -1,0 +1,24 @@
+{
+  "name": "thelocalhospitalchildrenwingportal",
+  "version": "1.0.0",
+  "description": "\"A children’s hospital portal designed for ages 2–18, accessible on tablets and web. Features include personal profiles, care details, maps, and interactive age-appropriate info about hospital visits. Bright, engaging, and accessible, it also offers games and videos to support learning, comfort, and entertainment.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliemcb1/TheLocalHospitalChildrenWingPortal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elliemcb1/TheLocalHospitalChildrenWingPortal/issues"
+  },
+  "homepage": "https://github.com/elliemcb1/TheLocalHospitalChildrenWingPortal#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
